@@ -1,5 +1,5 @@
 Webstie:
-heantaiclient.com
+https://heantaiclient.com
 Discord:
 https://discord.gg/sSzzCYPXb7
 YouTube:
